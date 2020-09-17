@@ -1,3 +1,7 @@
+<p align=center>
+	<img src="https://github.com/Manga08/Manga08/raw/master/assets/Manga%20Acero.gif"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Manga Acero</h1>
 <h3 align="center">A passionate front-end developer from Colombia</h3>
 
