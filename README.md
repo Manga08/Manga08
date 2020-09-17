@@ -17,7 +17,7 @@
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manga08&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="manga08" class="responsive"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manga08&show_icons=true&hide_border=true&count_private=true&hide=issues&theme=tokyonight" alt="manga08" class="responsive"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manga08&layout=compact&hide=html&hide_border=true&count_private=true&theme=tokyonight" alt="manga08" class="responsive"/></p>
 
